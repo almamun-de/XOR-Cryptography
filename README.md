@@ -10,3 +10,5 @@ This project implements simple XOR encryption and decryption in Python. XOR encr
 ### Running the Script
 Run the script from the command line. You will be prompted to enter the plaintext and a key. The script will display both the encrypted and decrypted outputs.
 
+```bash
+python xor_cryptography.py
